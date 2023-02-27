@@ -1,0 +1,29 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Simple Chatty Bot/*
+!/Simple Chatty Bot/task/
+/Simple Chatty Bot/task/*
+!/Simple Chatty Bot/task/src
+
+# Project exclude paths
+/Topics/Boolean and logical operations/Invitations and gifts/out/
+/Topics/Boolean and logical operations/Invitations and gifts/out/production/classes/
+/Topics/Integers in action/The number of tens/out/
+/Topics/Integers in action/The number of tens/out/production/classes/
+/Topics/Relational operators/Groundhogs at the party/out/
+/Topics/Relational operators/Groundhogs at the party/out/production/classes/
+/Topics/Type conversion/The superior forces of the Empire/out/
+/Topics/Type conversion/The superior forces of the Empire/out/production/classes/
